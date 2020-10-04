@@ -40,3 +40,58 @@
     background-color: gold;
     color:white;
 }
+body{
+    background-color: white;
+    height: 410vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: black; 
+    size: 30px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+h2{
+    color: black;
+    size: 25px; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+h3{
+    color: black; 
+    size: 18px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+h4{
+    color: black; 
+    size: 16px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+#team{
+    align-items: center;
+    position: absolute; 
+    top: 4000px; 
+    left: 10%; 
+}
+#News{
+    align-items: center;
+    position: absolute; 
+    top: 3000px; 
+    left: 10%; 
+}
+#Resources{
+    align-items: center;
+    position: absolute;
+    top: 2000px;
+    left: 10%;
+}
+#Opening{
+    align-items: center;
+    position: absolute;
+    top: 1000px;
+    left: 10%;
+}
+
