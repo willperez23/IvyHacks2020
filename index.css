@@ -3,7 +3,6 @@
     padding:0;
     border:0;
     outline:0;
-    font-size:100%;
     vertical-align: baseline;
     background: transparent;
 }
@@ -32,7 +31,7 @@
 
 .nav li a:hover{
     vertical-align: bottom;
-    background-color: white;
+    background-color: gray;
     color: gold;
 }
 
@@ -47,26 +46,27 @@ body{
 }
 h1{
     color: black; 
-    size: 30px; 
+    size: 80px; 
+    text-transform: capitalize;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 400;
-    text-transform: capitalize;
+  
 }
 h2{
     color: black;
-    size: 25px; 
+    size: 65px; 
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: 300;
 }
 h3{
     color: black; 
-    size: 18px; 
+    size: 48px; 
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 200;
 }
 h4{
     color: black; 
-    size: 16px; 
+    size: 36px; 
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 100;
 }
@@ -91,7 +91,7 @@ h4{
 #Opening{
     align-items: center;
     position: absolute;
-    top: 1000px;
+    top: 10%;
     left: 10%;
 }
 
